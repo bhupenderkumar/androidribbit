@@ -1,4 +1,4 @@
-Android Application for sharing social messages
+Android Application for sharing  
 =============================
 
  Build a Self-Destructing Message Android App .
